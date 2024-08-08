@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715833023377",
+    "project_id": "todonotification-88431",
+    "storage_bucket": "todonotification-88431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715833023377:android:209be4a2a57f9bb580d830",
+        "android_client_info": {
+          "package_name": "com.health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUMzIQEoas25hbGauix1OQduY15VQVBE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
