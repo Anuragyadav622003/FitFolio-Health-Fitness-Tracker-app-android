@@ -15,7 +15,7 @@ When users first open Fitfolio, they are welcomed by a starting page that allows
 
 For returning users, the login page provides a simple and secure way to access their account. Users enter their email and password to proceed.
 
-<img src="assets/login_page.png" alt="Login Page" width="200" height="800">
+<img src="https://github.com/Anuragyadav622003/FitFolio-Health-Fitness-Tracker-app-android/blob/main/assets/WhatsApp%20Image%202024-08-09%20at%2011.48.48_dbda2595.jpg" alt="Login Page" width="200" height="400">
 *Figure 1: Login page where users can enter their credentials.*
 
 ### Sign-Up Page
