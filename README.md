@@ -37,7 +37,7 @@ Once signed up, users are prompted to complete their profile by providing additi
 Fitfolio provides a complete set of tools for managing health and fitness, including a to-do list for workout planning and a health store for purchasing fitness-related items.
 health and fitness tracking with video solution.
 
-<img src="assets/todo_list.png" alt="To-Do List" width="600" height="300">
+<img src="https://github.com/Anuragyadav622003/FitFolio-Health-Fitness-Tracker-app-android/blob/main/assets/IMG-20240809-WA0005.jpg" alt="To-Do List" width="200" height="400">
 *Figure 4: To-Do List for managing workouts.*
 
 <img src="assets/health_store.png" alt="Health Store" width="600" height="300">
@@ -57,10 +57,10 @@ Users can track their routines effectively with push notifications. The app util
 
 Users can customize their profiles, track water intake, monitor calorie burns, set goals, and view their progress on a user dashboard.
 
-<img src="assets/profile_customization.png" alt="Profile Customization" width="600" height="300">
+<img src="https://github.com/Anuragyadav622003/FitFolio-Health-Fitness-Tracker-app-android/blob/main/assets/IMG-20240809-WA0007.jpg" alt="Profile Customization" width="200" height="400">
 *Figure 8: Profile customization with personal details and preferences.*
 
-<img src="assets/water_intake_tracking.png" alt="Water Intake Tracking" width="600" height="300">
+<img src="https://github.com/Anuragyadav622003/FitFolio-Health-Fitness-Tracker-app-android/blob/main/assets/IMG-20240809-WA0004.jpg" alt="Water Intake Tracking" width="200" height="400">
 *Figure 9: Water intake tracking feature with daily targets.*
 
 <img src="assets/calorie_burn_monitoring.png" alt="Calorie Burn Monitoring" width="600" height="300">
@@ -69,7 +69,7 @@ Users can customize their profiles, track water intake, monitor calorie burns, s
 <img src="https://github.com/Anuragyadav622003/FitFolio-Health-Fitness-Tracker-app-android/blob/main/assets/IMG-20240809-WA0003.jpg" alt="Goal Setting" width="200" height="400">
 *Figure 11: Goal setting screen where users can set and monitor fitness goals.*
 
-<img src="assets/user_dashboard.png" alt="User Dashboard" width="600" height="300">
+<img src="https://github.com/Anuragyadav622003/FitFolio-Health-Fitness-Tracker-app-android/blob/main/assets/IMG-20240809-WA0006.jpg" alt="User Dashboard" width="200" height="400">
 *Figure 12: User dashboard displaying overall progress and achievements.*
 
 ## 4. Secure Access with JWT Authentication
