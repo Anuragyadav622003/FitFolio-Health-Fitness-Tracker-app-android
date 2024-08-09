@@ -40,7 +40,7 @@ health and fitness tracking with video solution.
 <img src="https://github.com/Anuragyadav622003/FitFolio-Health-Fitness-Tracker-app-android/blob/main/assets/IMG-20240809-WA0005.jpg" alt="To-Do List" width="200" height="400">
 *Figure 4: To-Do List for managing workouts.*
 
-<img src="assets/health_store.png" alt="Health Store" width="600" height="300">
+<img src="https://github.com/Anuragyadav622003/FitFolio-Health-Fitness-Tracker-app-android/blob/main/assets/IMG-20240809-WA0008.jpg" alt="Health Store" width="200" height="400">
 *Figure 5: Health Store offering fitness products.*
 
 ## 2. Routine Tracking with Push Notifications and FCM
@@ -63,7 +63,7 @@ Users can customize their profiles, track water intake, monitor calorie burns, s
 <img src="https://github.com/Anuragyadav622003/FitFolio-Health-Fitness-Tracker-app-android/blob/main/assets/IMG-20240809-WA0004.jpg" alt="Water Intake Tracking" width="200" height="400">
 *Figure 9: Water intake tracking feature with daily targets.*
 
-<img src="assets/calorie_burn_monitoring.png" alt="Calorie Burn Monitoring" width="600" height="300">
+<img src="https://github.com/Anuragyadav622003/FitFolio-Health-Fitness-Tracker-app-android/blob/main/assets/IMG-20240809-WA0009.jpg" alt="Calorie Burn Monitoring" width="200" height="400">
 *Figure 10: Calorie burn monitoring showing daily and weekly statistics.*
 
 <img src="https://github.com/Anuragyadav622003/FitFolio-Health-Fitness-Tracker-app-android/blob/main/assets/IMG-20240809-WA0003.jpg" alt="Goal Setting" width="200" height="400">
