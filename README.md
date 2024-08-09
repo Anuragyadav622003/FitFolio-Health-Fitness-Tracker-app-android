@@ -35,6 +35,7 @@ Once signed up, users are prompted to complete their profile by providing additi
 ## 1. Comprehensive Health and Fitness Tools
 
 Fitfolio provides a complete set of tools for managing health and fitness, including a to-do list for workout planning and a health store for purchasing fitness-related items.
+health and fitness tracking with video solution.
 
 <img src="assets/todo_list.png" alt="To-Do List" width="600" height="300">
 *Figure 4: To-Do List for managing workouts.*
