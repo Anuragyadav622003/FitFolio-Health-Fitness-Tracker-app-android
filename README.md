@@ -66,7 +66,7 @@ Users can customize their profiles, track water intake, monitor calorie burns, s
 <img src="assets/calorie_burn_monitoring.png" alt="Calorie Burn Monitoring" width="600" height="300">
 *Figure 10: Calorie burn monitoring showing daily and weekly statistics.*
 
-<img src="assets/goal_setting.png" alt="Goal Setting" width="600" height="300">
+<img src="https://github.com/Anuragyadav622003/FitFolio-Health-Fitness-Tracker-app-android/blob/main/assets/IMG-20240809-WA0003.jpg" alt="Goal Setting" width="200" height="400">
 *Figure 11: Goal setting screen where users can set and monitor fitness goals.*
 
 <img src="assets/user_dashboard.png" alt="User Dashboard" width="600" height="300">
