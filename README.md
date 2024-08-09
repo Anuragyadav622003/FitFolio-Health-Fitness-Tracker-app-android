@@ -50,7 +50,7 @@ Users can track their routines effectively with push notifications. The app util
 <img src="assets/push_notifications.png" alt="Push Notifications" width="600" height="300">
 *Figure 6: Push notifications reminding users of their scheduled workouts.*
 
-<img src="assets/community_feedback.png" alt="Community Feedback" width="600" height="300">
+<img src="https://github.com/Anuragyadav622003/FitFolio-Health-Fitness-Tracker-app-android/blob/main/assets/IMG-20240809-WA0010.jpg" alt="Community Feedback" width="200" height="400">
 *Figure 7: Community feedback feature for sharing and receiving fitness tips.*
 
 ## 3. Profile Customization and Progress Tracking
